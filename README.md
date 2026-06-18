@@ -56,23 +56,23 @@ A curated collection of agent skills designed for AI coding assistants. Built on
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                      Agent Skills                         │
+│                      Agent Skills                       │
 ├─────────────────────────────────────────────────────────┤
-│                                                          │
+│                                                         │
 │  ┌──────────┐    ┌──────────────┐    ┌───────────────┐  │
-│  │  Skills  │───▶│  Agent Skills │───▶│  AI Assistant │  │
-│  │  (YAML)  │    │  Runtime      │    │  (Cursor, etc)│  │
+│  │  Skills  │──▶│  Agent Skills │──▶│  AI Assistant │  │
+│  │  (YAML)  │    │  Runtime     │    │  (Cursor, etc)│  │
 │  └──────────┘    └──────────────┘    └───────────────┘  │
-│       │                                                  │
-│       ▼                                                  │
+│       │                                                 │
+│       ▼                                                 │
 │  ┌──────────────────────────────────────────────────┐   │
-│  │  Execution Layer                                  │   │
+│  │  Execution Layer                                 │   │
 │  │  • Git operations (commit, push, branch mgmt)    │   │
 │  │  • Host detection (GitHub, GitLab, Bitbucket...) │   │
 │  │  • Convention enforcement (Conventional Commits) │   │
 │  │  • Safety validation (secrets, force-push, etc.) │   │
 │  └──────────────────────────────────────────────────┘   │
-│                                                          │
+│                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
 
