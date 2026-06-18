@@ -1,6 +1,6 @@
-# Contributing to CoreScale Skills
+# Contributing
 
-Thank you for your interest in contributing to CoreScale Skills. This document provides guidelines and processes for contributing effectively.
+Thank you for your interest in contributing to this project. This document provides guidelines and processes for contributing effectively.
 
 ## Table of Contents
 
@@ -260,4 +260,4 @@ Open a [GitHub Discussion](https://github.com/ericmelomp/skills/discussions) for
 
 ---
 
-_Thank you for helping make CoreScale Skills better for everyone._
+_Thank you for helping make this project better for everyone._

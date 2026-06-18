@@ -13,7 +13,7 @@ If you discover a security vulnerability in any skill within this repository, **
 
 ### Private Disclosure Process
 
-1. **Email** your report to the maintainer with the subject line: `[SECURITY] CoreScale Skills — <brief description>`
+1. **Email** your report to the maintainer with the subject line: `[SECURITY] Skills — <brief description>`
 2. Include:
    - Affected skill(s) and file(s)
    - Steps to reproduce

@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">CoreScale Skills</h1>
+  <h1 align="center">Skills</h1>
   <p align="center">
     Agent Skills for AI-Assisted Development — Enterprise-Grade Automation
   </p>
@@ -38,7 +38,7 @@
 
 ## Overview
 
-**CoreScale Skills** is a curated collection of agent skills designed for AI coding assistants. Built on the open [Agent Skills](https://agentskills.io/specification) specification, these skills provide deterministic, auditable automation workflows that integrate seamlessly with modern development environments.
+A curated collection of agent skills designed for AI coding assistants. Built on the open [Agent Skills](https://agentskills.io/specification) specification, these skills provide deterministic, auditable automation workflows that integrate seamlessly with modern development environments.
 
 ### Key Principles
 
@@ -56,7 +56,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                   CoreScale Skills                        │
+│                      Agent Skills                         │
 ├─────────────────────────────────────────────────────────┤
 │                                                          │
 │  ┌──────────┐    ┌──────────────┐    ┌───────────────┐  │
@@ -373,7 +373,7 @@ Unless noted in a skill's own frontmatter, content in this repository is provide
 ```
 MIT License
 
-Copyright (c) 2025 CoreScale
+Copyright (c) 2025 ericmelomp
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -395,7 +395,3 @@ SOFTWARE.
 ```
 
 ---
-
-<p align="center">
-  <sub>Built with ❤️ by CoreScale — Powering developer productivity through intelligent automation.</sub>
-</p>
